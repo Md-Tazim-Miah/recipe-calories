@@ -1,0 +1,111 @@
+[
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine-top-view_2829-6240.jpg?t=st=1731705274~exp=1731708874~hmac=cf758e3164ab318002f75716b8b63462268221e6c6fd189de382a09997d6e16c&w=740",
+      "recipe_id": 1,
+      "recipe_name": "Chicken Curry",
+      "short_description": "A classic Bangladeshi chicken curry cooked with aromatic spices.",
+      "ingredients": ["500 g chicken", "2 onions", "3 tomatoes", "2 tsp ginger paste", "2 tsp garlic paste", "1 tsp turmeric powder", "2 tsp chili powder", "salt to taste"],
+      "preparing_time": "45 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370826.jpg?t=st=1731705472~exp=1731709072~hmac=546a7de05027291a9e3c0fee975f2aaf7ae103ce4e38b75649fac11fb44ded9b&w=740",
+      "recipe_id": 2,
+      "recipe_name": "Beef Bhuna",
+      "short_description": "Slow-cooked spicy beef dish full of rich flavors.",
+      "ingredients": ["1 kg beef", "3 onions", "2 tbsp garlic paste", "1 tbsp ginger paste", "2 tsp cumin powder", "1 tsp coriander powder", "1 tsp turmeric powder", "3 green chilies", "salt to taste"],
+      "preparing_time": "1 hr 30 min",
+      "calories": "600 calories"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/premium-photo/dum-handi-chicken-biryani-is-prepared-earthen-clay-pot-called-haandi-popular-indian-non-vegetarian-food_466689-52390.jpg?w=740",
+      "recipe_id": 3,
+      "recipe_name": "Kacchi Biryani",
+      "short_description": "Traditional Bangladeshi biryani with marinated mutton and rice.",
+      "ingredients": ["1 kg mutton", "1 kg basmati rice", "250 g yogurt", "2 tbsp ginger-garlic paste", "1/2 cup fried onions", "4 potatoes", "2 tsp saffron", "4 green chilies", "salt to taste"],
+      "preparing_time": "2 hrs 30 min",
+      "calories": "900 calories"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/premium-photo/wooden-bowl-full-cooked-white-rice-with-splash-water_1352884-33357.jpg?w=826",
+      "recipe_id": 4,
+      "recipe_name": "Panta Bhat",
+      "short_description": "Fermented rice served with traditional sides like fried fish and pickles.",
+      "ingredients": ["500 g cooked rice", "salt", "1 dried chili", "1 lemon", "200 g fried fish"],
+      "preparing_time": "12 hrs (fermentation)",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/premium-photo/hilsa-fish-curry-with-mustard-paste-green-chilli-served-plate-with-selective-focus_1048944-25525244.jpg?w=826",
+      "recipe_id": 5,
+      "recipe_name": "Ilish Bhapa",
+      "short_description": "Steamed Hilsa fish with mustard paste for an authentic Bangladeshi taste.",
+      "ingredients": ["500 g Hilsa fish", "3 tbsp mustard paste", "2 green chilies", "1/4 cup mustard oil", "salt to taste"],
+      "preparing_time": "30 min",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/premium-photo/potato-salad-with-bacon-onion-mustard_214995-6618.jpg?w=740",
+      "recipe_id": 6,
+      "recipe_name": "Alu Bhorta",
+      "short_description": "Mashed potatoes with mustard oil, onions, and green chilies.",
+      "ingredients": ["500 g potatoes", "2 green chilies", "1 onion", "2 tbsp mustard oil", "salt to taste"],
+      "preparing_time": "20 min",
+      "calories": "200 calories"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/premium-photo/fish-curry-seer-fish-curry-traditional-indian-fish-curry-kerala-special-dish-using-coconut-arranged-white-bowl-garnished-with-curry-leaves-black-textured-background-isolated_527904-2013.jpg?w=740",
+      "recipe_id": 7,
+      "recipe_name": "Fish Curry",
+      "short_description": "Simple fish curry with turmeric and spices.",
+      "ingredients": ["500 g fish", "1 onion", "1 tsp turmeric powder", "2 tomatoes", "2 green chilies", "1 tsp garlic paste", "salt to taste"],
+      "preparing_time": "40 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/premium-photo/local-dish-from-asiawater-prawn-cooked-with-coconut-tumeric-powder_1048944-22709865.jpg?w=740",
+      "recipe_id": 8,
+      "recipe_name": "Chingri Malaikari",
+      "short_description": "Prawn curry cooked with coconut milk and spices.",
+      "ingredients": ["500 g prawns", "1 cup coconut milk", "2 onions", "2 tsp garlic paste", "1 tsp turmeric powder", "2 green chilies", "salt to taste"],
+      "preparing_time": "50 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/premium-photo/shrikhand-srikhand-is-indian-dessert-made-strained-yogurt-garnished-with-dry-fruits-saffron_466689-25397.jpg?w=740",
+      "recipe_id": 9,
+      "recipe_name": "Mishti Doi",
+      "short_description": "Sweetened yogurt dessert with a rich flavor.",
+      "ingredients": ["1 liter milk", "200 g sugar", "100 g yogurt culture"],
+      "preparing_time": "6 hrs (fermentation)",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/premium-photo/bowl-food-with-piece-meat-it_1166763-1031.jpg?w=740",
+      "recipe_id": 10,
+      "recipe_name": "Beef Tehari",
+      "short_description": "A flavorful rice dish cooked with marinated beef and aromatic spices.",
+      "ingredients": ["500 g beef", "2 cups rice", "2 onions", "2 tbsp garlic paste", "1 tbsp ginger paste", "2 green chilies", "2 tsp cumin powder", "salt to taste"],
+      "preparing_time": "1 hr 30 min",
+      "calories": "700 calories"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/premium-photo/prawn-mango-curry-kerala-traditional-dish-made-using-raw-mango_527904-1457.jpg?w=740",
+      "recipe_id": 11,
+      "recipe_name": "Daal Chingri",
+      "short_description": "Lentils cooked with shrimp for a protein-rich meal.",
+      "ingredients": ["1 cup lentils", "200 g shrimp", "1 onion", "2 green chilies", "1 tsp turmeric powder", "1 tbsp garlic paste", "salt to taste"],
+      "preparing_time": "40 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?t=st=1731706619~exp=1731710219~hmac=d04df5555c164d126ed2f9f6cce0cea6cbfa23cae1e6db2e0a8132a4b0d7a68f&w=740",
+      "recipe_id": 12,
+      "recipe_name": "Bhuna Khichuri",
+      "short_description": "Rice and lentils cooked with spices for a warm and hearty dish.",
+      "ingredients": ["1 cup rice", "1/2 cup lentils", "2 onions", "1 tsp turmeric powder", "2 green chilies", "salt to taste"],
+      "preparing_time": "50 min",
+      "calories": "400 calories"
+    }
+  ]
+  
